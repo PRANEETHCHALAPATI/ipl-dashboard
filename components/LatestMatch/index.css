@@ -1,0 +1,41 @@
+.latest-match-card {
+  background-color: #0f172a;
+  padding: 20px;
+  border-radius: 12px;
+  margin-bottom: 24px;
+  color: #ffffff;
+}
+
+.match-main-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.team-name {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.match-date,
+.match-venue,
+.match-result {
+  font-size: 14px;
+  margin: 4px 0;
+}
+
+.team-logo {
+  width: 80px;
+  height: 80px;
+}
+
+.separator {
+  margin: 16px 0;
+  border: 0.5px solid #ffffff30;
+}
+
+.match-breakdown p {
+  font-size: 14px;
+  margin: 4px 0;
+}
+ 
